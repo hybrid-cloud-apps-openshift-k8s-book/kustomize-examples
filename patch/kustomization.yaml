@@ -1,0 +1,4 @@
+resources:
+- deploymentset.yaml
+patchesStrategicMerge:
+- update_replicas.yaml

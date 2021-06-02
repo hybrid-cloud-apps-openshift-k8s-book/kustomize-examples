@@ -1,0 +1,7 @@
+commonLabels:
+    env: development
+bases:
+- ../base
+namePrefix: dev-
+patchesStrategicMerge:
+- update_replicas.yaml

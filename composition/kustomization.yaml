@@ -1,0 +1,3 @@
+resources:
+- deploymentset.yaml
+- service.yaml

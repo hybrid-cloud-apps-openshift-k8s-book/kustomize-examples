@@ -1,0 +1,7 @@
+commonLabels:
+    env: staging
+bases:
+- ../base
+namePrefix: staging-
+patchesStrategicMerge:
+- update_replicas.yaml

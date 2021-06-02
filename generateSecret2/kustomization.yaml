@@ -1,0 +1,4 @@
+secretGenerator:
+- name: sample-secret2
+  files:
+  - password.txt
